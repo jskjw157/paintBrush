@@ -1,6 +1,10 @@
 # paintingBoard Project
 
+
+
 > canvas테그를 이용하여 그림판을 만드는 프로젝트.
+
+
 
 ## 기능
 
